@@ -23,3 +23,8 @@ Data categories:
 
 Who is the end user?? Lana
 What should the end user be able to do?? Keep track of all of the most important data from her business
+
+Logical Model
+Main Entities: Dog Owners - ID, first name, last name, phone/email, address Dog - ID, age, name, picture, weight/size, breed, health concern Walker - ID, first name, last name, phone/email Walk - ID, time frame/date of walk, previous walks, gps tracking, locations, scheduling Payment - ID, dog owner ID, pricing, payment method
+
+Primary Keys: Dog owner ID Dog ID Walker ID Walk ID Payment ID
