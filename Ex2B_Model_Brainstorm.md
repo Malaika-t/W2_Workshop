@@ -1,6 +1,6 @@
 # Requirementss and Conceptual Model
 Lily Wells, Dania Kabakibi, Chantal Lee, Malaika Tariq, Aspenne Rhoden
-# 1 Requirements & Conceptual Model:
+# 1. Requirements & Conceptual Model:
 Data categories:
 
 Dog Owner:
@@ -35,7 +35,7 @@ Who is the end user?? Lana
 
 What should the end user be able to do?? Keep track of all of the most important data from her business.
 
-# 2 Logical Model:
+# 2. Logical Model:
 Main Entities:
 - Owners
 - Walkers
