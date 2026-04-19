@@ -2,13 +2,16 @@
 Lily Wells, Dania Kabakibi, Chantal Lee, Malaika Tariq, Aspenne Rhoden
 # 1B Requirements & Conceptual Model:
 Data categories:
+
 Dog Owner:
 - files of dog owners
 - phone number of owner
 - owner address
+  
 Payment:
 - pricing/payments
 - payment methods
+  
 Dog:
 - breeds 
 - health concern
@@ -16,12 +19,14 @@ Dog:
 - dog name
 - picture of the dog
 - weight/size of dog
+  
 walk:
 - scheduling
 - locations
 - time frame/date of walk
 - gps tracking
 - previous walks
+  
 walker:
 - walker name
 - walker phone number/emergency contact
@@ -38,6 +43,7 @@ Main Entities:
 - Payments
 
 Attributes:
+
 Owners
   - owner_id (PK)
   - first_name
