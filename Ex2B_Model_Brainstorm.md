@@ -2,7 +2,6 @@
 Lily Wells, Dania Kabakibi, Chantal Lee, Malaika Tariq, Aspenne Rhoden
 # 1B Requirements & Conceptual Model:
 Data categories:
-
 Dog Owner:
 - files of dog owners
 - phone number of owner
