@@ -109,3 +109,17 @@ Cons of Each Approach
 - Misunderstandings of prompts led to inconsistent results.
 
 
+
+3A. Differences in Table
+Some of us included additional details in our tables, such as pictures of the dogs, GPS tracking links, and emergency contact information. One of the main differences between our tables was that different AI tools slightly changed or formatted the information differently. Overall, everyone created their tables in Excel, but the structure and extra features were the only differences
+
+4A. Using AI Chat Tools
+Using AI chat was very helpful because it made the process faster and easier. It was a good troubleshooting tool when we got stuck. The main mistake it made was sometimes repeating data, which we had to go back and fix.
+
+4B. Sample Data Observations
+The sample data looks neat and organized. From the records, we can tell that the business keeps track of important information, which shows that it is well organized. This would help the business run efficiently and keep up to date records.
+
+4C. Differences in Group Databases
+The differences we had were that some group members have extra features like pictures and GPS tracking links, while others kept their tables more simple. However, some tables had slightly different information or formatting, depending on how each person used the AI tools.
+
+
